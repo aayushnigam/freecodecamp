@@ -1,6 +1,6 @@
 
-```markdown
-# Course List Application
+```
+## Course List Application
 
 This application displays a list of courses using styled cards. The courses are dynamically fetched and rendered using React and Tailwind CSS.
 
