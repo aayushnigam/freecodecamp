@@ -1,3 +1,17 @@
+Assignment details :
+Problem
+
+Create a home page of freecodecamp  as shown in Fig1 with signin button on top navbar.Once clicked on Sign in button, it should open signin page
+Create a sign in page with name,email and password and store the credentials in a collection in Mongod		
+While signing in,if a email id is already in db, show ‘Email id already exists	‘
+After signed in,redirect the page to fig 2
+Along with email sign in,provide an option for sign in with google account in signin page
+*Use Node Js and JWT for backend and authentication
+
+
+Once signed in, the app should remain logged in even after window is restarted
+Create some mock data for the course with Course Title and Duration(No need of any content inside the course) in a collection in Mongodb and show it in the page-1(fig2)
+*You can use any route name as per your wish
 
 
 ## Course List Application
